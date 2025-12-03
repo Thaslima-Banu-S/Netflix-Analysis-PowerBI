@@ -3,8 +3,8 @@ A Power BI project analyzing a Netflix dataset. It includes data cleaning, DAX c
 
 ## Dashboard Previews
 
-### Audience Insight
-![Audience Insight](Audience%20Insight.jpg)
-
 ### Netflix Overview
 ![Netflix Overview](Netflix%20Overview.jpg)
+
+### Audience Insight
+![Audience Insight](Audience%20Insight.jpg)
